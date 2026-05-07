@@ -1,0 +1,15 @@
+BOT_TOKEN=1234567890:ABCdefGHIJKlmnoPQRstUVWXYZ
+TELEGRAM_API_ID=1234567
+TELEGRAM_API_HASH=your_api_hash
+FRAGMENT_API_KEY=your_fragment_api_key
+FRAGMENT_SEED=word1 word2 ... word24
+PLATEGA_API_KEY=your_platega_api_key
+PLATEGA_SHOP_ID=your_shop_id
+PLATEGA_SECRET=your_secret_key
+AURURA_API_KEY=your_aurura_api_key
+AURURA_SECRET_KEY=your_aurura_secret_key
+AURURA_WALLET_ID=your_wallet_id
+AURURA_CALLBACK_SECRET=your_callback_secret
+WEBHOOK_URL=https://your-domain.com
+WEBHOOK_PORT=8000
+SUPPORT_USERNAME=MstiStarsSupport
